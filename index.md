@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+【遺言日記】Privacy Policy
+遺言日記（以下、本アプリ）はSena Sawada（以下、当方）が提供するアプリであり、当ページは本アプリのプライバシーポリシー（以下、当ポリシー）です。 本アプリをご利用中された場合は当ポリシーに同意したとみなしますので、ご利用の際はご閲覧をお願いします。 ご意見やご連絡は、第七条をご参照ください
 
-You can use the [editor on GitHub](https://github.com/Sena369/WillDiaryAppPrivacy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+第一条：個人情報の収集と目的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本アプリで収集される個人情報は、本アプリの向上を目指した目的にのみ利用されます
 
-### Markdown
+第二条：個人情報の管理
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本アプリは、ユーザーの不利益につながる用途、利用用途を逸脱した目的には利用致しません。 また、第三者が不正に使用されるのを防ぐため、厳重に管理いたします。 ご自身で個人情報を訂正・削除する場合は、本アプリに搭載された編集・削除機能をご活用ください。
 
-```markdown
-Syntax highlighted code block
+第三条：個人情報の第三者への開示・提供
 
-# Header 1
-## Header 2
-### Header 3
+ユーザーよりお預かりした情報は適切に管理し、ユーザーの同意を無くして、第三者に個人情報を公開・提供することは致しません。 下記の例を除き、ユーザーの許可なく、本アプリ外の目的に利用・流用することは致しません。 ・政府、行政機関から情報の開示要請があった場合 ・法律に従い、個人情報の提供が必要な場合
 
-- Bulleted
-- List
+第四条：プライバシーポリシーの変更
 
-1. Numbered
-2. List
+日本の法令や関連する規則に従い、要請や通達があった場合、当ポリシーの内容は変更されることがあります。 当方は、ユーザーの同意なしに当ポリシーを変更することは致しません。 当方は、ユーザーの個人情報を合法に取得するような規約、もしくは本アプリのコンセプトを逸脱するような規約を追加することはしません。
 
-**Bold** and _Italic_ and `Code` text
+第五条：禁止事項
 
-[Link](url) and ![Image](src)
-```
+本アプリのコンセプトを遥かに逸脱するような、下記に関連する行為は禁止します。 著作権法違反 プライバシーの侵害 本アプリのイメージを汚す行為 本アプリの製作者、第三者を誹謗中傷する行為 本アプリのユーザーの権利を侵害する行為
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+第六条：免責事項
 
-### Jekyll Themes
+本アプリは、何らかの諸事情により、AppStoreでの公開を停止/廃止することがあります。 本アプリは、理想の品質や機能を絶対に保証するものではありません。 他ユーザー個人情報を許可なく共有・公開することは禁止とし、どのような結果が起ころうと一切の責任を負いません。 また犯罪や良からぬ目的に個人情報を利用したとしても、一切の関与は致しませんのご了承ください。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sena369/WillDiaryAppPrivacy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+第七条：お問い合わせ先
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Twitter：@SS965081801 メールアドレス：ios.developper.p9j6@gmail.com
